@@ -15,14 +15,13 @@ Partial Completion:
  - The NPCs inventory can be locked to prevent further customization. Useful for map makers.
     ( This functionality is in the code, not in the game.)
  - The NPCs can be assigned housing like any other NPC.
-    ( The game assigns housing based on NPC Type. All the generic NPCs are the same type. Ideally, each one would be given their own assignment.)
-    ( They can still move into houses and be kicked out of houses, but cannot be individually assigned homes.)
+    ( The game assigns housing based on NPC Type. All the generic NPCs are the same type. Ideally, each one would be given their own assignment. They can still move into houses and be kicked out of houses, but cannot be individually assigned homes.)
  - Multiplayer Support
     ( This mod relies on internally overriding the client player. Multiplayer is here because it's untested, with a near-guarantee that it will not work.)
 
 Unimplemented Goals:
  - NPCs can be marked as softcore
-    -> Causes their deaths to act similar to vanilla NPCs, where they move in again.\
+    -> Causes their deaths to act similar to vanilla NPCs, where they move in again.
  - NPCs can have requests for the player:
     -> Be it Payment, Housing, or a fetch quest (like the Angler in vanilla) 
     -> Customizable for map makers.
