@@ -1,0 +1,3 @@
+displayName = Endless NPCs
+author = IsleofLilac
+version = 0.1
